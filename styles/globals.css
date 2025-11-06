@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root{--mixx-pink:#ff48a5;--mixx-green:#2cd85b;--mixx-dark:#0b0b0d}
+html,body,#__next{height:100%}
+body{background:var(--mixx-dark);color:#eaeaea;font-family:Inter,Poppins,system-ui}

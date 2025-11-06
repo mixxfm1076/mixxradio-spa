@@ -1,0 +1,1 @@
+export default function Page(){ return (<section className='p-12 max-w-6xl mx-auto'><h2 className='text-3xl mb-4'>Contact</h2><p>Contenu à remplir...</p></section>) }
